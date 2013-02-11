@@ -1,7 +1,7 @@
 <?php
 
 /**
- * English language support
+ * Swedish language support
  * @author Jesper Lindström
  */
 
@@ -12,7 +12,7 @@
 $lang['abbreviation'] = "se";
 
 // User panel abbreviation
-$lang['ucp'] = "UCP";
+$lang['ucp'] = "Användarpanel";
 
 /**
  * ====================================
@@ -21,28 +21,28 @@ $lang['ucp'] = "UCP";
  */
 
 // Singular forms
-$lang['month'] = "month";
-$lang['day'] = "day";
-$lang['hour'] = "hour";
-$lang['minute'] = "minute";
-$lang['second'] = "second";
+$lang['month'] = "månad";
+$lang['day'] = "dag";
+$lang['hour'] = "timme";
+$lang['minute'] = "minut";
+$lang['second'] = "sekund";
 
 // Plural forms
-$lang['months'] = "months";
-$lang['days'] = "days";
-$lang['hours'] = "hours";
-$lang['minutes'] = "minutes";
-$lang['seconds'] = "seconds";
+$lang['months'] = "månader";
+$lang['days'] = "dagar";
+$lang['hours'] = "timmar";
+$lang['minutes'] = "minuter";
+$lang['seconds'] = "sekunder";
 
 // Permission errors
-$lang['denied'] = "Permission denied";
-$lang['must_be_signed_in'] = "You must be signed in to view this page!";
-$lang['already_signed_in'] = "You are already signed in!";
-$lang['no_permission'] = "You do not have permission to view this page.";
-$lang['click_to_sign_in'] = "Please click here to sign in.";
+$lang['denied'] = "Åtkomst nekad";
+$lang['must_be_signed_in'] = "Du måste vara inloggad för att se denna sida!";
+$lang['already_signed_in'] = "Du är redan inloggad!";
+$lang['no_permission'] = "Du har inte rätt att se denna sida.";
+$lang['click_to_sign_in'] = "Klicka här för att logga in.";
 
 // Misc
-$lang['reason'] = "Reason:";
-$lang['banned'] = "banned";
-$lang['close_tool'] = "Close tool";
+$lang['reason'] = "Anledning:";
+$lang['banned'] = "bannad";
+$lang['close_tool'] = "Stäng";
 $lang['offline'] = "Offline";

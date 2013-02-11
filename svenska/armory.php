@@ -12,24 +12,24 @@
  *	will automatically look in that folder too.
  */
 
-$lang['search_title'] = "Search";
-$lang['search_headline'] = "Armory search";
-$lang['search_placeholder'] = "Search characters, items and guilds...";
-$lang['search_button'] = "Search";
-$lang['search_too_short'] = "Search string must be longer than 2 characters!";
-$lang['characters'] = "Characters";
-$lang['items'] = "Items";
-$lang['guilds'] = "Guilds";
-$lang['no_characters_found'] = "No characters found";
-$lang['no_items_found'] = "No items found";
-$lang['no_guilds_found'] = "No guilds found";
-$lang['name'] = "Name";
-$lang['members'] = "Members";
-$lang['owner'] = "Owner";
-$lang['realm'] = "Realm";
-$lang['level'] = "Level";
-$lang['required'] = "Required";
-$lang['type'] = "Type";
-$lang['view_character_profile'] = "View character profile";
-$lang['cant_be_empty'] = "Search field can't be empty!";
-$lang['misc'] = "Miscellaneous";
+$lang['search_title'] = "Sök";
+$lang['search_headline'] = "Sök arsenalen";
+$lang['search_placeholder'] = "Sök karaktärer, saker och gillen...";
+$lang['search_button'] = "Sök";
+$lang['search_too_short'] = "Sökfrasen måste vara längre än 2 tecken!";
+$lang['characters'] = "Karaktärer";
+$lang['items'] = "Saker";
+$lang['guilds'] = "Gillen";
+$lang['no_characters_found'] = "Inga karaktärer hittades";
+$lang['no_items_found'] = "Inga saker hittades";
+$lang['no_guilds_found'] = "Inga gillen hittades";
+$lang['name'] = "Namn";
+$lang['members'] = "Medlemmar";
+$lang['owner'] = "Ägare";
+$lang['realm'] = "Värld";
+$lang['level'] = "Nivå";
+$lang['required'] = "Obligatoriskt";
+$lang['type'] = "Typ";
+$lang['view_character_profile'] = "Visa karaktärsprofil";
+$lang['cant_be_empty'] = "Sökfältet kan inte vara tomt!";
+$lang['misc'] = "Övrigt";
