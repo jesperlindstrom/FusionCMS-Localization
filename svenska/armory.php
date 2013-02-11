@@ -13,15 +13,15 @@
  */
 
 $lang['search_title'] = "Sök";
-$lang['search_headline'] = "Sök arsenalen";
-$lang['search_placeholder'] = "Sök karaktärer, saker och gillen...";
+$lang['search_headline'] = "Sök armory";
+$lang['search_placeholder'] = "Sök karaktärer, items och gillen...";
 $lang['search_button'] = "Sök";
 $lang['search_too_short'] = "Sökfrasen måste vara längre än 2 tecken!";
 $lang['characters'] = "Karaktärer";
 $lang['items'] = "Saker";
 $lang['guilds'] = "Gillen";
 $lang['no_characters_found'] = "Inga karaktärer hittades";
-$lang['no_items_found'] = "Inga saker hittades";
+$lang['no_items_found'] = "Inga items hittades";
 $lang['no_guilds_found'] = "Inga gillen hittades";
 $lang['name'] = "Namn";
 $lang['members'] = "Medlemmar";

@@ -12,10 +12,10 @@
  *	will automatically look in that folder too.
  */
 
-$lang['invalid'] = "No guild or realm specified!";
-$lang['invalid_guild'] = "Invalid guild";
+$lang['invalid'] = "Inget gille eller värld angiven!";
+$lang['invalid_guild'] = "Ogiltigt gille";
 $lang['armory'] = "Armory";
-$lang['no_motd'] = "This guild has no message of the day.";
-$lang['members'] = "members";
-$lang['leader'] = "Leader";
-$lang['doesnt_exist'] = "The requested guild does not exist";
+$lang['no_motd'] = "Detta gille har inget meddelande för dagen.";
+$lang['members'] = "medlemmar";
+$lang['leader'] = "Ledare";
+$lang['doesnt_exist'] = "Guilden kunde inte hittas";

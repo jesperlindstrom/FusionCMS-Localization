@@ -12,15 +12,15 @@
  *	will automatically look in that folder too.
  */
 
-$lang['donate_title'] = "Donate";
-$lang['donate_panel'] = "Donate panel";
-$lang['donate_thanks'] = "Thanks for your donation!";
-$lang['donate_success'] = "Thanks for supporting our server! If you don't receive your points with in 5 minutes, please contact a game master.";
+$lang['donate_title'] = "Donera";
+$lang['donate_panel'] = "Donations panel";
+$lang['donate_thanks'] = "Tack för din donation!";
+$lang['donate_success'] = "Tack för att du stödjer vår server! Om du inte får dina donationspoäng inom 5 minuter, vänligen kontakta en game master.";
 $lang['paypal'] = "PayPal";
 $lang['paygol'] = "PayGol (SMS)";
-$lang['donation_for'] = "Donation for";
-$lang['dp'] = "Donation points";
-$lang['for'] = "for"; // as in "X Donation points >for< $Y"
-$lang['pay_paypal'] = "Pay with PayPal";
-$lang['pay_paygol'] = "Pay with SMS";
-$lang['no_methods'] = "Please configure at least one payment method.";
+$lang['donation_for'] = "Donation till";
+$lang['dp'] = "Donationspoäng";
+$lang['for'] = "för"; // as in "X Donation points >for< $Y"
+$lang['pay_paypal'] = "Betala med PayPal";
+$lang['pay_paygol'] = "Betala med SMS";
+$lang['no_methods'] = "Vänligen konfigurera åtminstone ett betalningsalternativ.";

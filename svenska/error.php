@@ -12,8 +12,8 @@
  *	will automatically look in that folder too.
  */
 
-$lang['404_title'] = "File not found";
-$lang['404'] = "404 error - file not found";
-$lang['404_long'] = "The file you requested could not be found!";
-$lang['permission_denied_title'] = "Permission denied";
-$lang['permission_denied'] = "You don't have permission to access this page!";
+$lang['404_title'] = "Filen kunde inte hittas";
+$lang['404'] = "Fel 404 - filen hittades inte";
+$lang['404_long'] = "Filen du sökte kunde inte hittas!";
+$lang['permission_denied_title'] = "Åtkomst nekad";
+$lang['permission_denied'] = "Du har inte åtkomst till denna sida";

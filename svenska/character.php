@@ -12,19 +12,19 @@
  *	will automatically look in that folder too.
  */
 
-$lang['unknown'] = "Unknown";
-$lang['doesnt_exist'] = "Character doesn't exist";
-$lang['doesnt_exist_long'] = "The requested character does not exist.";
-$lang['view_profile'] = "View profile";
-$lang['attributes'] = "Attributes";
-$lang['pvp'] = "Player vs Player";
+$lang['unknown'] = "Okänd";
+$lang['doesnt_exist'] = "Karaktären existerar inte";
+$lang['doesnt_exist_long'] = "Karaktären du söker kunde inte hittas.";
+$lang['view_profile'] = "Visa profil";
+$lang['attributes'] = "Attribut";
+$lang['pvp'] = "Spelare mot spelare";
 $lang['str'] = "Strength";
 $lang['sta'] = "Stamina";
 $lang['int'] = "Intellect";
 $lang['sp'] = "Spell power";
 $lang['ap'] = "Attack power";
-$lang['next'] = "Next";
-$lang['previous'] = "Previous";
+$lang['next'] = "Nästa";
+$lang['previous'] = "Föregående";
 $lang['res'] = "Resilience";
 $lang['armor'] = "Armor";
 $lang['block'] = "Block";
@@ -34,6 +34,6 @@ $lang['crit'] = "Crit chance";
 $lang['ranged_crit'] = "Ranged crit chance";
 $lang['spell_crit'] = "Spell crit chance";
 $lang['spirit'] = "Spirit";
-$lang['kills'] = "Total kills";
-$lang['honor'] = "Honor points";
-$lang['arena'] = "Arena points";
+$lang['kills'] = "Totalt antal kills";
+$lang['honor'] = "Honor-poäng";
+$lang['arena'] = "Arena-poäng";
