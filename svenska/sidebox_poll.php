@@ -12,8 +12,8 @@
  *	will automatically look in that folder too.
  */
 
-$lang['show_results'] = "Show results";
-$lang['no_answers'] = "This question has no answers";
-$lang['no_poll'] = "There is currently no active poll";
-$lang['show_options'] = "Show options";
-$lang['log_in'] = "Please log in to vote!";
+$lang['show_results'] = "Visa resultat";
+$lang['no_answers'] = "Frågan har inga svar!";
+$lang['no_poll'] = "Det finns ingen pågående fråga";
+$lang['show_options'] = "Visa alternativ";
+$lang['log_in'] = "Logga in för att rösta!";

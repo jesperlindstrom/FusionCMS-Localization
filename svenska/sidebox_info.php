@@ -13,12 +13,12 @@
  */
 
 $lang['expansion'] = "Expansion";
-$lang['last_ip'] = "Last IP";
-$lang['current_ip'] = "Current IP";
+$lang['last_ip'] = "Senaste IP";
+$lang['current_ip'] = "Nuvarande IP";
 $lang['vp'] = "VP";
 $lang['dp'] = "DP";
-$lang['user_panel'] = "User panel";
-$lang['log_out'] = "Log out";
-$lang['username'] = "Username";
-$lang['password'] = "Password";
-$lang['log_in'] = "Log in!";
+$lang['user_panel'] = "Användarpanel";
+$lang['log_out'] = "Logga ut";
+$lang['username'] = "Användarnamn";
+$lang['password'] = "Lösenord";
+$lang['log_in'] = "Logga in!";

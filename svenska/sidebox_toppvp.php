@@ -12,8 +12,8 @@
  *	will automatically look in that folder too.
  */
 
-$lang['next'] = "Next realm";
-$lang['previous'] = "Previous realm";
-$lang['no_stats'] = "There are no PvP stats to display";
+$lang['next'] = "Nästa värld";
+$lang['previous'] = "Föregående värld";
+$lang['no_stats'] = "Det finns inga PvP stats att visa";
 $lang['kills'] = "kills";
-$lang['view_profile'] = "View character profile";
+$lang['view_profile'] = "Visa karaktärsprofil";

@@ -12,18 +12,18 @@
  *	will automatically look in that folder too.
  */
 
-$lang['username'] = "Username";
-$lang['recover'] = "Recover password!";
-$lang['new_password'] = "Your new password is";
-$lang['your_new_password'] = "your new password";
-$lang['smtp_disabled'] = "This feature is disabled because the server doesn't have SMTP installed.";
-$lang['password_recovery'] = "Password recovery";
-$lang['email_sent'] = "An email has been sent to you with further information. Please check your inbox to proceed.";
-$lang['reset_password'] = "reset your password";
-$lang['email'] = "You have requested to reset your password, to complete the request please navigate to ";
-$lang['doesnt_exist'] = "The user doesn't exist.";
-$lang['go_back'] = "Go back";
-$lang['changed'] = "Your password has been changed! The new password has been sent to your email adress.";
-$lang['invalid'] = "Invalid key.";
-$lang['no_key'] = "No key entered.";
-$lang['error_while_inserting'] = "Error while inserting the key.";
+$lang['username'] = "Användarnamn";
+$lang['recover'] = "Återställ lösenord!";
+$lang['new_password'] = "Ditt nya lösenord är";
+$lang['your_new_password'] = "ditt nya lösenord";
+$lang['smtp_disabled'] = "Denna funktionen är avstängd för servern inte har SMTP installerad.";
+$lang['password_recovery'] = "Återställ lösenord";
+$lang['email_sent'] = "Ett e-post meddelande har skickats till dig med vidare information. Vänligen kolla i din inkorg för att fortsätta.";
+$lang['reset_password'] = "återställ ditt lösenord";
+$lang['email'] = "Du har önskat att återställa ditt lösenord, för att fortsätta vänligen gå till ";
+$lang['doesnt_exist'] = "Användaren finns inte.";
+$lang['go_back'] = "Gå tillbaka";
+$lang['changed'] = "Ditt lösenord har ändrats! Det nya lösenordet har skickats till din e-post adress.";
+$lang['invalid'] = "Ogiltig nyckel.";
+$lang['no_key'] = "Ingen nyckel angiven.";
+$lang['error_while_inserting'] = "Fel under nyckelskapning.";

@@ -13,45 +13,45 @@
  */
 
 // UCP
-$lang['user_panel'] = "User panel";
-$lang['change_avatar'] = "Change avatar";
-$lang['nickname'] = "Nickname";
-$lang['location'] = "Location";
+$lang['user_panel'] = "Användarpanel";
+$lang['change_avatar'] = "Ändra bild";
+$lang['nickname'] = "Smeknamn";
+$lang['location'] = "Plats";
 $lang['expansion'] = "Expansion";
-$lang['account_rank'] = "Account rank";
-$lang['voting_points'] = "Voting points";
-$lang['donation_points'] = "Donation points";
-$lang['account_status'] = "Account status";
-$lang['member_since'] = "Member since";
+$lang['account_rank'] = "Kontorank";
+$lang['voting_points'] = "Röstningspoäng";
+$lang['donation_points'] = "Donationspoäng";
+$lang['account_status'] = "Kontostatus";
+$lang['member_since'] = "Medlem sedan";
 
 // Avatar
-$lang['change_avatar'] = "Change avatar";
-$lang['make_use'] = "We make use of";
-$lang['provides_way'] = "which provides an easy way to maintain your avatars across the web.";
-$lang['to_change'] = "To change your avatar you need to";
-$lang['sign_up_for'] = "sign up for";
-$lang['or'] = "or";
-$lang['log_into'] = "log into";
-$lang['using_email'] = "using the following email:";
+$lang['change_avatar'] = "Ändra visningsbild";
+$lang['make_use'] = "Vi använder oss utav";
+$lang['provides_way'] = "vilket gör det möjligt att använda samma visningsbild på många olika hemsidor.";
+$lang['to_change'] = "För att ändra din visningsbild behöver du antingen";
+$lang['sign_up_for'] = "registrera dig";
+$lang['or'] = "eller";
+$lang['log_into'] = "logga in på";
+$lang['using_email'] = "med hjälp av följande e-post:";
 
 // Settings
-$lang['settings'] = "Account settings";
+$lang['settings'] = "Kontoinställningar";
 
-$lang['nickname_error'] = "Nickname must be between 4 and 14 characters long and may only contain letters and numbers";
-$lang['location_error'] = "Location may only be up to 32 characters long and may only contain letters";
-$lang['pw_doesnt_match'] = "Passwords doesn't match!";
-$lang['changes_saved'] = "Changes have been saved!";
-$lang['invalid_pw'] = "Incorrect password!";
-$lang['nickname_taken'] = "Nickname is already taken";
-$lang['invalid_language'] = "Invalid language";
+$lang['nickname_error'] = "Smeknamnet måste vara mellan 4 och 16 tecken långt och kan endast innehålla bokstäver och siffror";
+$lang['location_error'] = "Platsen får endast vara upp till 32 bokstäver lång och får endast innehålla bokstäver";
+$lang['pw_doesnt_match'] = "Lösenorden matchar inte!";
+$lang['changes_saved'] = "Ändringar har sparats!";
+$lang['invalid_pw'] = "Ogiltigt lösenord!";
+$lang['nickname_taken'] = "Smeknamn är redan taget";
+$lang['invalid_language'] = "Ogiltigt språk";
 
 // Change expansion
-$lang['change_expansion'] = "Change expansion";
-$lang['expansion_changed'] = "Your expansion has been changed.";
-$lang['back_to_ucp'] = "Click here to go back to the User panel!";
-$lang['invalid_expansion'] = "The expansion you selected does not exists!";
+$lang['change_expansion'] = "Byt expansion";
+$lang['expansion_changed'] = "Din expansion har blivit ändrad.";
+$lang['back_to_ucp'] = "Klicka här för att gå tillbaka till användarpanelen!";
+$lang['invalid_expansion'] = "Expansionen du har valt finns inte!";
 $lang['expansion'] = "Expansion";
-$lang['none'] = "None";
+$lang['none'] = "Ingen";
 
 /**
  * Only translate these if World of Warcraft does it themselves,

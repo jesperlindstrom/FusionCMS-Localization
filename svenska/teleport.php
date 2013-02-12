@@ -12,18 +12,18 @@
  *	will automatically look in that folder too.
  */
 
-$lang['teleport_hub'] = "Teleport hub";
-$lang['cant_afford'] = "You can't afford this!";
-$lang['must_be_offline'] = "The character must be offline!";
-$lang['doesnt_exist'] = "The location you selected does not exist!";
-$lang['no_location'] = "The teleport location was not set!";
-$lang['select'] = "Select";
-$lang['selected'] = "Selected";
-$lang['teleported'] = "has been teleported!";
-$lang['select_char'] = "Select character";
-$lang['gold'] = "gold";
+$lang['teleport_hub'] = "Teleporthubb";
+$lang['cant_afford'] = "Du har inte råd med detta!";
+$lang['must_be_offline'] = "Din karaktär måste vara offline!";
+$lang['doesnt_exist'] = "Platsen du har valt existerar inte!";
+$lang['no_location'] = "Teleportplatsen var inte angiven!";
+$lang['select'] = "Välj";
+$lang['selected'] = "Vald";
+$lang['teleported'] = "har blivit teleporterad!";
+$lang['select_char'] = "Välj karaktär";
+$lang['gold'] = "guld";
 $lang['vp'] = "VP";
 $lang['dp'] = "DP";
-$lang['free'] = "Free";
-$lang['no_locations'] = "No locations";
-$lang['no_chars'] = "You have no characters";
+$lang['free'] = "Gratis";
+$lang['no_locations'] = "Inga platser";
+$lang['no_chars'] = "Du har inga karaktärer";

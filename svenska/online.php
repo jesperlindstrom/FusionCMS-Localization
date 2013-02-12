@@ -12,12 +12,12 @@
  *	will automatically look in that folder too.
  */
 
-$lang['character'] = "Character";
-$lang['level'] = "Level";
-$lang['race'] = "Race";
-$lang['class'] = "Class";
-$lang['location'] = "Location";
-$lang['no_players'] = "There are no players online";
+$lang['character'] = "Karaktär";
+$lang['level'] = "Nivå";
+$lang['race'] = "Ras";
+$lang['class'] = "Klass";
+$lang['location'] = "Plats";
+$lang['no_players'] = "Det finns inga spelare online";
 $lang['offline'] = "Offline";
-$lang['view_profile'] = "View character profile";
-$lang['online_players'] = "Online players";
+$lang['view_profile'] = "Visa karaktärsprofil";
+$lang['online_players'] = "Spelare online";

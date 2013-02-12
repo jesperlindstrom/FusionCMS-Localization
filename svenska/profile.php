@@ -12,12 +12,12 @@
  *	will automatically look in that folder too.
  */
 
-$lang['doesnt_exist'] = "User doesn't exist";
-$lang['doesnt_exist_long'] = "The requested user does not exist.";
-$lang['nickname'] = "Nickname";
-$lang['location'] = "Location";
+$lang['doesnt_exist'] = "Användaren finns inte";
+$lang['doesnt_exist_long'] = "Användaren existerar inte.";
+$lang['nickname'] = "Smeknamn";
+$lang['location'] = "Plats";
 $lang['status'] = "Status";
-$lang['signed_up'] = "Signed up";
+$lang['signed_up'] = "Registrerad";
 $lang['rank'] = "Rank";
-$lang['contact'] = "Contact";
-$lang['pm'] = "Private message";
+$lang['contact'] = "Kontakta";
+$lang['pm'] = "Privatmeddelande";
