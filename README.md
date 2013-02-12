@@ -5,7 +5,7 @@ Language support for [FusionCMS](http://fusion.raxezdev.com).
 
 ### Status
 * **English:** 100%
-* **Romanian:** 100%
+* **Romana (Romanian):** 100%
 * **Svenska (Swedish):** 0%
 
 ### Want to help us out?
