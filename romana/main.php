@@ -1,15 +1,15 @@
 <?php
 
 /**
- * English language support
- * @author Jesper Lindström
+ * Romanian language support
+ * @author ak47sigh
  */
 
 /**
  * 2-letter language abbreviation, used for flag icons
  * @see http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
  */
-$lang['abbreviation'] = "gb";
+$lang['abbreviation'] = "ro";
 
 // User panel abbreviation
 $lang['ucp'] = "UCP";
