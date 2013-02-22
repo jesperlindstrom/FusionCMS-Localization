@@ -4,10 +4,12 @@ FusionCMS Localization
 Language support for [FusionCMS](http://fusion.raxezdev.com).
 
 ### Status
-* **English:** 100%
-* **Romana (Romanian):** 100%
+* **English (International):** 100%
+* **Español (Spanish):** 100%
+* **Norsk (Norwegian):** 100%
+* **Română (Romanian):** 100%
 * **Svenska (Swedish):** 100%
-* **Espanol (Spanish):** 100%
+* **Pусскии (Russian):** 100%
 
 ### How to download?
 Either clone the repository using a Git client, or download it as a .zip:
