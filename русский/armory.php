@@ -13,7 +13,7 @@
  */
 
 $lang['search_title'] = "Поиск";
-$lang['search_headline'] = "Поиск в оружейней";
+$lang['search_headline'] = "Поиск в оружейной";
 $lang['search_placeholder'] = "Поиск персонажей, вещей и гильдий ...";
 $lang['search_button'] = "Поиск";
 $lang['search_too_short'] = "Строка поиска должна быть длиннее 2 символов!";

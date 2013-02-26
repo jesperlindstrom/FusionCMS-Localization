@@ -14,7 +14,7 @@
 
 $lang['character'] = "Персонажи";
 $lang['level'] = "Уровень";
-$lang['race'] = "Расса";
+$lang['race'] = "Раса";
 $lang['class'] = "Класс";
 $lang['location'] = "Локация";
 $lang['no_players'] = "Не найдено игроков онлайн";

@@ -12,7 +12,7 @@
  *	will automatically look in that folder too.
  */
 
-$lang['expansion'] = "Расширение";
+$lang['expansion'] = "Дополнение";
 $lang['last_ip'] = "Последний IP";
 $lang['current_ip'] = "Текущий IP";
 $lang['vp'] = "VP";

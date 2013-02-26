@@ -14,9 +14,9 @@
 
 $lang['register'] = "Регистрация";
 $lang['username_limit_length'] = "Имя пользователя должно быть от 4 до 32 символов";
-$lang['username_limit'] = "Имя пользователя может содержать только алфавитно-цифровой символы";
+$lang['username_limit'] = "Имя пользователя может содержать только латиницу и цифровые символы";
 $lang['username_not_available'] = "Имя пользователя не доступно";
-$lang['email_invalid'] = "Почта должна быть валидной";
+$lang['email_invalid'] = "Почта должна быть настоящей";
 $lang['password_short'] = "Пароль должен быть длиннее 6 символов";
 $lang['password_match'] = "Пароль не совпадает";
 $lang['email_not_available'] = "Email не доступен";
@@ -33,5 +33,5 @@ $lang['username'] = "Имя пользователя";
 $lang['email'] = "Почта";
 $lang['password'] = "Пароль";
 $lang['confirm'] = "Подтвердить пароль";
-$lang['expansion'] = "Расширение";
+$lang['expansion'] = "Дополнение";
 $lang['submit'] = "Создать аккаунт!";

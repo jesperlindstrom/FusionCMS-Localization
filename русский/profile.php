@@ -18,6 +18,6 @@ $lang['nickname'] = "Имя игрока";
 $lang['location'] = "Локация";
 $lang['status'] = "Статус";
 $lang['signed_up'] = "Зарегистрирован";
-$lang['rank'] = "Ран";
+$lang['rank'] = "Ранг";
 $lang['contact'] = "Связь";
 $lang['pm'] = "Личное сообщение";
