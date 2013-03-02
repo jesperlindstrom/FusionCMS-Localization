@@ -19,4 +19,4 @@ $lang['guests'] = "гостей";
 $lang['visitor'] = "посетитель";
 $lang['visitors'] = "посетителей";
 $lang['online'] = "онлайн";
-$lang['who'] = "кто??";
+$lang['who'] = "кто?";

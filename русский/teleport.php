@@ -14,7 +14,7 @@
 
 $lang['teleport_hub'] = "Телепорт центр";
 $lang['cant_afford'] = "Вы не можете себе этого позволить!";
-$lang['must_be_offline'] = "Игрок должен быть оффлайн!";
+$lang['must_be_offline'] = "Персонаж должен быть оффлайн!";
 $lang['doesnt_exist'] = "Локацию которую вы выбрали не существует!";
 $lang['no_location'] = "Телепорт локация не выбрана!";
 $lang['select'] = "Выбрать";
@@ -25,5 +25,5 @@ $lang['gold'] = "золото";
 $lang['vp'] = "VP";
 $lang['dp'] = "DP";
 $lang['free'] = "Бесплатно";
-$lang['no_locations'] = "Нет локация";
-$lang['no_chars'] = "У вас нет игроков";
+$lang['no_locations'] = "Нет локаций";
+$lang['no_chars'] = "У вас нет персонажей";
