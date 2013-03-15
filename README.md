@@ -12,6 +12,21 @@ Language support for [FusionCMS](http://fusion.raxezdev.com).
 * **Pусскии (Russian):** 100%
 * **Deutsch (German):** 100%
 
+### Needed Translations (Most of them using common languages)
+* **Arabic**
+* **Croatian**
+* **Chinese**
+* **Danish**
+* **French**
+* **Korean**
+* **Greek**
+* **Japanese**
+* **Magyar**
+* **Portuguese**
+* **Serbian**
+* **Turkish**
+* **...**
+
 ### How to download?
 Either clone the repository using a Git client, or download it as a .zip:
 ![Download](http://cdn.raxezdev.com/p/511ce8dc509b1.png)
