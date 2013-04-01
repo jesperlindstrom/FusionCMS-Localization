@@ -12,11 +12,11 @@
  *	will automatically look in that folder too.
  */
 
-$lang['character'] = "Car·cteres";
+$lang['character'] = "Car√°cteres";
 $lang['level'] = "Nivel";
 $lang['race'] = "Raza";
 $lang['class'] = "Clase";
-$lang['location'] = "LocalizaciÛn";
+$lang['location'] = "Localizaci√≥n";
 $lang['no_players'] = "No hay jugadores online";
 $lang['offline'] = "Desconectado";
 $lang['view_profile'] = "Ver perfil del personaje";

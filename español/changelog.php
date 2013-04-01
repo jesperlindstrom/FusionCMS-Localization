@@ -14,9 +14,9 @@
 
 $lang['changelog_title'] = "Lista de cambios";
 $lang['changes_made_on'] = "Cambios realizados en";
-$lang['no_changes'] = "No hay ningún cambio a mostrar.";
-$lang['change_info'] = "¿Que has hecho?";
-$lang['category_name'] = "Nombre de la categoría";
+$lang['no_changes'] = "No hay ningÃºn cambio a mostrar.";
+$lang['change_info'] = "Â¿Que has hecho?";
+$lang['category_name'] = "Nombre de la categorÃ­a";
 $lang['new_change'] = "Nuevo cambio";
-$lang['new_category'] = "Nueva categoría";
-$lang['add'] = "Añdir";
+$lang['new_category'] = "Nueva categorÃ­a";
+$lang['add'] = "AÃ±dir";

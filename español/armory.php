@@ -13,10 +13,10 @@
  */
 
 $lang['search_title'] = "Buscar";
-$lang['search_headline'] = "Buscar en la armería";
+$lang['search_headline'] = "Buscar en la armerÃ­a";
 $lang['search_placeholder'] = "Buscar personajes, Objetos y hermandades...";
 $lang['search_button'] = "Buscar";
-$lang['search_too_short'] = "¡Debe haber al menos 2 carácteres para realizar la busqueda!";
+$lang['search_too_short'] = "Â¡Debe haber al menos 2 carÃ¡cteres para realizar la busqueda!";
 $lang['characters'] = "Personajes";
 $lang['items'] = "Objetos";
 $lang['guilds'] = "Hermandades";
@@ -25,11 +25,11 @@ $lang['no_items_found'] = "No se han encontrado objetos";
 $lang['no_guilds_found'] = "No se han encontrado hermandades";
 $lang['name'] = "Nombre";
 $lang['members'] = "Miembros";
-$lang['owner'] = "Dueño";
+$lang['owner'] = "DueÃ±o";
 $lang['realm'] = "Reino";
 $lang['level'] = "Nivel";
 $lang['required'] = "Requerido";
 $lang['type'] = "Tipo";
 $lang['view_character_profile'] = "Ver perfil del personaje";
-$lang['cant_be_empty'] = "¡El cuadro de busqueda no puede estar vacio!";
-$lang['misc'] = "Misceláneo";
+$lang['cant_be_empty'] = "Â¡El cuadro de busqueda no puede estar vacio!";
+$lang['misc'] = "MiscelÃ¡neo";

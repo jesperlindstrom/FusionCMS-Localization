@@ -13,7 +13,7 @@
  */
 
 $lang['loading'] = "Cargando...";
-$lang['no_item'] = "¡No hay item o reino especificado!";
+$lang['no_item'] = "Â¡No hay item o reino especificado!";
 $lang['view_item'] = "Ver item";
 $lang['armory'] = "Armeria";
 $lang['unknown_item'] = "Item desconocido";
@@ -25,16 +25,16 @@ $lang['restores'] = "Equipar: Restaura";
 $lang['increases'] = "Equipar: Aumenta tu";
 $lang['by'] = "Por";
 $lang['armor'] = "Armadura";
-$lang['damage'] = "Daño";
+$lang['damage'] = "DaÃ±o";
 $lang['speed'] = "Velocidad";
-$lang['holy'] = "Resisténcia al sagrado";
-$lang['nature'] = "Resisténcia a la naturaleza";
-$lang['fire'] = "Resisténcia al fuego";
-$lang['frost'] = "Resisténncia el hielo";
-$lang['shadow'] = "Resisténcia a las sombras";
-$lang['arcane'] = "Resisténcia a lo arcano";
+$lang['holy'] = "ResistÃ©ncia al sagrado";
+$lang['nature'] = "ResistÃ©ncia a la naturaleza";
+$lang['fire'] = "ResistÃ©ncia al fuego";
+$lang['frost'] = "ResistÃ©nncia el hielo";
+$lang['shadow'] = "ResistÃ©ncia a las sombras";
+$lang['arcane'] = "ResistÃ©ncia a lo arcano";
 $lang['durability'] = "Durabilidad";
 $lang['requires_level'] = "Nivel requerido";
 $lang['item_level'] = "Nivel de item";
 $lang['unknown_effect'] = "Efecto desconocido";
-$lang['dps'] = "daño por segundo";
+$lang['dps'] = "daÃ±o por segundo";

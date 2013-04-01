@@ -12,10 +12,10 @@
  *	will automatically look in that folder too.
  */
 
-$lang['invalid'] = "¡No has especificado reino o hermandad!";
-$lang['invalid_guild'] = "Hermandad no válida";
+$lang['invalid'] = "Â¡No has especificado reino o hermandad!";
+$lang['invalid_guild'] = "Hermandad no vÃ¡lida";
 $lang['armory'] = "Armeria";
-$lang['no_motd'] = "Esta hermandad no tiene mensaje del día.";
+$lang['no_motd'] = "Esta hermandad no tiene mensaje del dÃ­a.";
 $lang['members'] = "Miembros";
-$lang['leader'] = "Líder";
+$lang['leader'] = "LÃ­der";
 $lang['doesnt_exist'] = "La guild que buscas no existe";

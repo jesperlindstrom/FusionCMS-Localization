@@ -13,9 +13,9 @@
  */
 
 $lang['type_comment'] = "Escribe un comentario...";
-$lang['characters'] = "Car·cteres";
+$lang['characters'] = "Car√°cteres";
 $lang['submit'] = "Enviar comentario";
-$lang['log_in'] = "Por favor, conÈctate para dejar un comentario";
+$lang['log_in'] = "Por favor, con√©ctate para dejar un comentario";
 $lang['view_profile'] = "Ver perfil";
 $lang['comments'] = "Comentarios";
 $lang['posted_by'] = "Posteado por";

@@ -15,7 +15,7 @@
 $lang['doesnt_exist'] = "El usuario no existe";
 $lang['doesnt_exist_long'] = "El usuario que buscas no existe.";
 $lang['nickname'] = "Nombre del jugador";
-$lang['location'] = "Localización";
+$lang['location'] = "LocalizaciÃ³n";
 $lang['status'] = "Estado";
 $lang['signed_up'] = "Conectado";
 $lang['rank'] = "Rango";

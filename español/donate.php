@@ -13,14 +13,14 @@
  */
 
 $lang['donate_title'] = "Donar";
-$lang['donate_panel'] = "Panel de donaci髇";
-$lang['donate_thanks'] = "racias por tu donaci髇!";
-$lang['donate_success'] = "racias por ayudar al servidor! Si no hay recibido tus puntos de donaci髇 en 5 minutos contacta con un Maestro de Juego.";
+$lang['donate_panel'] = "Panel de donaci贸n";
+$lang['donate_thanks'] = "隆Gracias por tu donaci贸n!";
+$lang['donate_success'] = "隆Gracias por ayudar al servidor! Si no hay recibido tus puntos de donaci贸n en 5 minutos contacta con un Maestro de Juego.";
 $lang['paypal'] = "PayPal";
 $lang['paygol'] = "PayGol (SMS)";
-$lang['donation_for'] = "Donaci髇 para";
-$lang['dp'] = "Puntos de donaci髇";
-$lang['for'] = "Para"; // En "X" Puntos de donaci髇 >para< $Y"
+$lang['donation_for'] = "Donaci贸n para";
+$lang['dp'] = "Puntos de donaci贸n";
+$lang['for'] = "Para"; // En "X" Puntos de donaci贸n >para< $Y"
 $lang['pay_paypal'] = "Pagar con PayPal";
 $lang['pay_paygol'] = "Pagar por SMS";
-$lang['no_methods'] = "Por favor, selecciona al menos un m閠odo de pago.";
+$lang['no_methods'] = "Por favor, selecciona al menos un m茅todo de pago.";

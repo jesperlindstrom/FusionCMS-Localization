@@ -18,5 +18,5 @@ $lang['guest'] = "invitado";
 $lang['guests'] = "invitados";
 $lang['visitor'] = "visitante";
 $lang['visitors'] = "visitantes";
-$lang['online'] = "en línea";
-$lang['who'] = "¿Quien?";
+$lang['online'] = "en lÃ­nea";
+$lang['who'] = "Â¿Quien?";

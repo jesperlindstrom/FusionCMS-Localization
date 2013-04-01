@@ -13,17 +13,17 @@
  */
 
 $lang['username'] = "Nombre de usuario";
-$lang['recover'] = "¡Recuperar contraseña!";
-$lang['new_password'] = "Tu nueva contraseña es";
-$lang['your_new_password'] = "tu nueva contraseña";
-$lang['smtp_disabled'] = "Esta función está desactivada por que no tienes SMTP activado.";
-$lang['password_recovery'] = "Recuperación de contraseña";
-$lang['email_sent'] = "Se te ha enviado un mail con la información pertinente, por favor, revisa tu bandeja de entrada.";
-$lang['reset_password'] = "resetear tu contraseña";
-$lang['email'] = "Has pedido recuperar tu contraseña, para recuperarla dirígete a ";
+$lang['recover'] = "Â¡Recuperar contraseÃ±a!";
+$lang['new_password'] = "Tu nueva contraseÃ±a es";
+$lang['your_new_password'] = "tu nueva contraseÃ±a";
+$lang['smtp_disabled'] = "Esta funciÃ³n estÃ¡ desactivada por que no tienes SMTP activado.";
+$lang['password_recovery'] = "RecuperaciÃ³n de contraseÃ±a";
+$lang['email_sent'] = "Se te ha enviado un mail con la informaciÃ³n pertinente, por favor, revisa tu bandeja de entrada.";
+$lang['reset_password'] = "resetear tu contraseÃ±a";
+$lang['email'] = "Has pedido recuperar tu contraseÃ±a, para recuperarla dirÃ­gete a ";
 $lang['doesnt_exist'] = "El usuario no existe.";
 $lang['go_back'] = "Volver";
-$lang['changed'] = "¡Tu contraseña ha sido cambiada! Se te ha enviado la nueva contraseña a tu mail.";
-$lang['invalid'] = "Clave errónea.";
+$lang['changed'] = "Â¡Tu contraseÃ±a ha sido cambiada! Se te ha enviado la nueva contraseÃ±a a tu mail.";
+$lang['invalid'] = "Clave errÃ³nea.";
 $lang['no_key'] = "No has puesto clave.";
 $lang['error_while_inserting'] = "Error poniendo la clave.";

@@ -14,6 +14,6 @@
 
 $lang['404_title'] = "Archivo no encontrado";
 $lang['404'] = "Error 404 - Archivo no encontrado";
-$lang['404_long'] = "¡El archivo que buscas no está disponible!";
+$lang['404_long'] = "Â¡El archivo que buscas no estÃ¡ disponible!";
 $lang['permission_denied_title'] = "Permiso denegado";
-$lang['permission_denied'] = "¡No tienes permiso para acceder aquí!";
+$lang['permission_denied'] = "Â¡No tienes permiso para acceder aquÃ­!";

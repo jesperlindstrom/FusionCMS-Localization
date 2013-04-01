@@ -14,9 +14,9 @@
 
 $lang['log_in'] = "Conectarse";
 $lang['user_doesnt_exist'] = "El usuario no existe";
-$lang['password_doesnt_match'] = "La constraseña no coincide";
+$lang['password_doesnt_match'] = "La constraseÃ±a no coincide";
 $lang['username'] = "Nombre de usuario";
-$lang['password'] = "Contraseña";
-$lang['remember_me'] = "Click aquí si quieres mantenerte siempre conectado";
+$lang['password'] = "ContraseÃ±a";
+$lang['remember_me'] = "Click aquÃ­ si quieres mantenerte siempre conectado";
 $lang['remember_me_short'] = "Mantenme conectado";
-$lang['lost_your_password'] = "¿Has perdido tu contraseña?";
+$lang['lost_your_password'] = "Â¿Has perdido tu contraseÃ±a?";

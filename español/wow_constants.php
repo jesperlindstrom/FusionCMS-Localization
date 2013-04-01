@@ -22,12 +22,12 @@ $lang['races'] = array(
 
 $lang['classes'] = array(
 	1 => "Guerrero",
-	2 => "Paladín",
+	2 => "PaladÃ­n",
 	3 => "Cazador",
-	4 => "Pícaro",
+	4 => "PÃ­caro",
 	5 => "Sacerdote",
 	6 => "Caballero de la muerte",
-	7 => "Chamán",
+	7 => "ChamÃ¡n",
 	8 => "Mago",
 	9 => "Brujo",
 	11 => "Druida"

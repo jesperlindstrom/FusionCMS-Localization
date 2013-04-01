@@ -13,13 +13,13 @@
  */
 
 $lang['teleport_hub'] = "Eje de teletransporte";
-$lang['cant_afford'] = "¡No puedes con esto!";
-$lang['must_be_offline'] = "¡El personaje debe estar desconectado!";
-$lang['doesnt_exist'] = "¡La localización que has elejido no existe!";
-$lang['no_location'] = "¡No has seleccionado un lugar de teletransporte!";
+$lang['cant_afford'] = "Â¡No puedes con esto!";
+$lang['must_be_offline'] = "Â¡El personaje debe estar desconectado!";
+$lang['doesnt_exist'] = "Â¡La localizaciÃ³n que has elejido no existe!";
+$lang['no_location'] = "Â¡No has seleccionado un lugar de teletransporte!";
 $lang['select'] = "Seleccionar";
 $lang['selected'] = "Seleccionado";
-$lang['teleported'] = "¡Has sido teletransportado!";
+$lang['teleported'] = "Â¡Has sido teletransportado!";
 $lang['select_char'] = "Escojer personaje";
 $lang['gold'] = "oro";
 $lang['vp'] = "PV";

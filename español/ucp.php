@@ -16,11 +16,11 @@
 $lang['user_panel'] = "Panel de usuario";
 $lang['change_avatar'] = "Cambiar avatar";
 $lang['nickname'] = "Nombre de usuario";
-$lang['location'] = "Localización";
-$lang['expansion'] = "Expansión";
+$lang['location'] = "LocalizaciÃ³n";
+$lang['expansion'] = "ExpansiÃ³n";
 $lang['account_rank'] = "Rango de cuenta";
-$lang['voting_points'] = "Puntos de Votación (PV)";
-$lang['donation_points'] = "Puntos de donación (PD)";
+$lang['voting_points'] = "Puntos de VotaciÃ³n (PV)";
+$lang['donation_points'] = "Puntos de donaciÃ³n (PD)";
 $lang['account_status'] = "Estado de la cuenta";
 $lang['member_since'] = "Miembro desde:";
 
@@ -35,22 +35,22 @@ $lang['log_into'] = "Conectarse en";
 $lang['using_email'] = "usando el siguiente mail:";
 
 // Settings
-$lang['settings'] = "Configuración de cuenta";
+$lang['settings'] = "ConfiguraciÃ³n de cuenta";
 
-$lang['nickname_error'] = "El nombre de usuario debe tenerentre 4 y 14 carácteres y estos deben ser alfanuméricos";
+$lang['nickname_error'] = "El nombre de usuario debe tenerentre 4 y 14 carÃ¡cteres y estos deben ser alfanumÃ©ricos";
 $lang['location_error'] = "Location may only be up to 32 characters long and may only contain letters";
-$lang['pw_doesnt_match'] = "¡Las contraseñas no coinciden!";
-$lang['changes_saved'] = "¡Los cambios han sido cambiados!";
-$lang['invalid_pw'] = "¡Contraseña incorrecta!";
-$lang['nickname_taken'] = "El nombre de usuario ya está cojido";
+$lang['pw_doesnt_match'] = "Â¡Las contraseÃ±as no coinciden!";
+$lang['changes_saved'] = "Â¡Los cambios han sido cambiados!";
+$lang['invalid_pw'] = "Â¡ContraseÃ±a incorrecta!";
+$lang['nickname_taken'] = "El nombre de usuario ya estÃ¡ cojido";
 $lang['invalid_language'] = "Lenguaje incorrecto";
 
 // Change expansion
-$lang['change_expansion'] = "Cambiar expansión";
-$lang['expansion_changed'] = "Tu expansión ha sido cambiada.";
-$lang['back_to_ucp'] = "¡Click aquí para volver al panel de control del usuario!";
-$lang['invalid_expansion'] = "La expansión que has seleccionado no existe!";
-$lang['expansion'] = "Expansión";
+$lang['change_expansion'] = "Cambiar expansiÃ³n";
+$lang['expansion_changed'] = "Tu expansiÃ³n ha sido cambiada.";
+$lang['back_to_ucp'] = "Â¡Click aquÃ­ para volver al panel de control del usuario!";
+$lang['invalid_expansion'] = "La expansiÃ³n que has seleccionado no existe!";
+$lang['expansion'] = "ExpansiÃ³n";
 $lang['none'] = "Ninguna";
 
 /**

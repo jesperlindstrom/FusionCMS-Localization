@@ -16,4 +16,4 @@ $lang['show_results'] = "Mostrar resultados";
 $lang['no_answers'] = "Essta pregunta no tiene respuesta";
 $lang['no_poll'] = "No hay encuestas activas";
 $lang['show_options'] = "Mostrar opciones";
-$lang['log_in'] = "¡Por favor, conectate para votar!";
+$lang['log_in'] = "Â¡Por favor, conectate para votar!";
