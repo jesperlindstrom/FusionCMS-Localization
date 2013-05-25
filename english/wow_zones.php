@@ -2303,12 +2303,13 @@ $lang['zones'] = array(
 	5600 => 'Baradin Hold',
 	5638 => 'Throne of the Four Winds',
 	5695 => 'AhnQiraj: The Fallen Kingdom',
-	5844 => 'Hour of Twilight',
-	5861 => 'Darkmoon Island',
-	5892 => 'Dragon Soul',
 	5789 => 'End Time',
 	5799 => 'Eye of the Storm',
 	5723 => 'Firelands',
 	5733 => 'Molten Front',
-	5788 => 'Well of Eternity'
+	5788 => 'Well of Eternity',
+	5844 => 'Hour of Twilight',
+	5861 => 'Darkmoon Island',
+	5892 => 'Dragon Soul'
+
 );
