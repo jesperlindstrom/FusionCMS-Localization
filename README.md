@@ -1,7 +1,9 @@
 FusionCMS Localization
 ======================
 
-Language support for [FusionCMS](http://fusion.raxezdev.com).
+Language support for [FusionCMS](http://fusion-hub.com).
+
+**Please note:** I'm no longer involved with this project. I still maintain this repository, but for support and other questions, please refer to the FusionHub support.
 
 ### Status
 * **English (International):** 100%
@@ -13,11 +15,12 @@ Language support for [FusionCMS](http://fusion.raxezdev.com).
 * **Deutsch (German):** 100%
 * **Français (French):** 100%
 * **Українська (Ukrainian):** 100%
+* **Português (Portuguese):** 100%
 
 ### How to download?
-Either clone the repository using a Git client, or download it as a .zip:
+Either clone the repository using a Git client, or download it as a .zip from GitHub:
 
-![Download](http://cdn.raxezdev.com/p/511ce8dc509b1.png)
+![Download](https://github.com/jesperlindstrom/FusionCMS-Localization/archive/master.zip)
 
 ### How to install languages?
 *Requires FusionCMS v6.1 or higher*
